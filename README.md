@@ -1,3 +1,7 @@
+# Deprecation Warning
+
+CircuitAnalysis.jl is now deprecated. Functionality migrated to [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl).
+
 # CircuitAnalysis.jl: Circuit Analysis Tools
 
 ## Description
